@@ -1,0 +1,20 @@
+{
+  "Aryan": {
+    "2025-06-05": {
+      "cold_shower": true,
+      "workout": true,
+      "diet": true,
+      "dsa_question": true,
+      "water": true
+    }
+  },
+  "Paarth": {
+    "2025-06-05": {
+      "cold_shower": true,
+      "workout": false,
+      "diet": false,
+      "dsa_question": true,
+      "water": false
+    }
+  }
+}
